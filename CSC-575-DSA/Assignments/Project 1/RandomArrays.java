@@ -22,14 +22,14 @@ public class RandomArrays{
         
         //save elapsed time1
         long elapsedTime1 = endTime1 - startTime1;
-        
+
         //Generate array2 of 5000 random elements
         int[] arr2 = RandomArrayGenerator(5000);
 
         //start Timer
         long startTime2 = System.currentTimeMillis();
 
-        //call primitive array sorting
+        //call primitive (double-pivot) array sorting
         Arrays.sort(arr2);
 
         //save run time
@@ -38,12 +38,25 @@ public class RandomArrays{
         //save elapsed time2
         long elapsedTime2 = endTime2 - startTime2;
 
+        //Generate array3 of 5000 random elements
+        int[] arr3 = RandomArrayGenerator(5000);
+
+        //start Timer
+        long startTime3 = System.currentTimeMillis();
+
+        //call parralel array sorting
+        Arrays.parallelSort(arr3);
+
+        //save run time
+        long endTime3 = System.currentTimeMillis();
+
+        //save elapsed time2
+        long elapsedTime3 = endTime3 - startTime3;
+
         //print message
-        System.out.println("Insertion Sort time = " + elapsedTime1);
-        System.out.println("Primitive Sort time = "+elapsedTime2);
-
-
-
+        System.out.println("Insertion Sort time = " + elapsedTime1+"ms");
+        System.out.println("Primitive Sort time = "+ elapsedTime2+"ms");
+        System.out.println("Parallel Sort time = "+ elapsedTime3+"ms");
     }
     public static int[] RandomArrayGenerator(int n) 
   {
@@ -56,6 +69,16 @@ public class RandomArrays{
     return Array;
   }
 
+  /**
+   * Function Name: Insertion Sort
+   * 
+   * @param array
+   * 
+   * Inside The Function:
+   * 1. Loops through array comparing each value to the value at the previous index
+   * 2. inserts current value into proper index when it meets a value at a previosu index that is less
+   * 
+   */
   public static void insertionSort(int[] array){
     //loop through the array starting at the second index
     for (int i=1; i<array.length; i++){
@@ -74,7 +97,6 @@ public class RandomArrays{
            j--;
 
         }
-
     }
   }
 
