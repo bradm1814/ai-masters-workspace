@@ -3,21 +3,47 @@ public class LinkedList{
     private Node tail;
     private int length;
 
+    //would normally run in Main file but for brevity I will run in this file
+    public static void main(String[] args) {
+        //Create Linked with with initial element
+        LinkedList myLinkedList = new LinkedList("A");
+        //append elements
+        myLinkedList.append("B");
+        myLinkedList.append("C");
+        myLinkedList.append("D");
+        //Remove element C at index 2
+        System.out.println(myLinkedList.remove(2).element);
+
+    }
 
     class Node{
-        int value;
+        String element;
         Node next;
-        
-        Node(int value){
-            this.value = value;
+
+        Node(String element){
+            this.element = element;
         }
     }
 
-    public LinkedList(int value){
-        Node newNode = new Node(value);
+    public LinkedList(String element){
+        Node newNode = new Node(element);
         head = newNode;
         tail = newNode;
         length = 1;
+    }
+
+    public void append(String element){
+        Node newNode = new Node(element);
+
+        if (length == 0){
+            head = newNode;
+            tail = newNode;
+        }else{
+            tail.next = newNode;
+            tail = newNode;
+            tail.next = null;
+        }
+        length+=1;
     }
 
     public Node removeLast(){
@@ -64,7 +90,7 @@ public class LinkedList{
         }
         return temp;
     }
-    
+
     public Node remove(int index){
         if (index < 0 || index >= length){
             return null;
@@ -82,3 +108,4 @@ public class LinkedList{
         }
     }
 }
+
