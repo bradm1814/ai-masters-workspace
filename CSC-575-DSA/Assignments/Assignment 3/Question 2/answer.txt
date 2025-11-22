@@ -1,0 +1,6 @@
+The main advantage of the insertion sort algorithm comes into play when lists are sorted or almost sorted. 
+In these scenarios, insertion sorts time complexity is reduced to O(n) because of the comparative operation 
+to it’s previous node allows the algorithm to stay out of an extra loop that would drive the time complexity to O(n^2).
+
+The limitation comes in when working with large dataset that are unsorted. 
+In these cases the algorithm needs to go into another comparative operator which drives time complexity to O(n^2).
