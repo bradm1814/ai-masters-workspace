@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PalindromeChecker {
+public class PalindromeChecker{
     
     public static boolean isPalindrome(String str){
         // Start with base case 
