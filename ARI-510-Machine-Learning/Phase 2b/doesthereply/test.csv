@@ -1,0 +1,127 @@
+id,text
+DIY_328278_328285,"TITLE
+Hot water coming out cold Masey LF-048-MC
+
+QUESTION
+I bought a brand new Pfister Masey LF-048-MC. I connected the left line to left connector on the faucet and the right line to the right connector on the faucet.
+
+I turned on the hot and cold water separately. I turned on the right (cold) faucet first. The cold water was hot in about 3 seconds. I left it run for about 30 seconds and then it turned cool but not cold.
+
+I turned on the hot water and hot water came out when I turned on the left (hot) handle.
+
+Is there a setting or something that I need to change in this brand new bathroom faucet?
+
+REPLY
+One possibility is that your hot and cold lines run close to each other. The hot line should normally be lagged (insulated), but probably isn't."
+DIY_328287_328288,"TITLE
+Do I need a 40A breaker for my 7000 watt heater?
+
+QUESTION
+I am installing a 7000 watt 240v heater in my shop. At 7000 watts and 240v I come up with 29.17 amps. Can I use a 30 amp breaker with 10 gauge wire or would it be smarter to pay the extra and bump it up to a 40 amp breaker using 8 gauge wire? I am 12 feet away from the panel.
+
+REPLY
+Stuff like heaters that are on longer than three hours must have the circuit at 125% of their draw (or 80% derate).
+
+You need the 40 amp circuit, which can have up to 32 amps running all the time.
+
+Other devices/appliances that would only use 7000w if everything was turn on high (stoves) might get away with a 30 amp circuit, but would be iffy on Thanksgiving/Christmas/big families.
+
+I imagine you used the standard 240v to get 29.17 amps, not 220v (even if the heater says 220)."
+DIY_328293_328297,"TITLE
+How to approach hanging a shelf standard (or reinforcing the area) when stud plates are in the way
+
+QUESTION
+I'm currently installing some K&V85 standards in the garage. Everything has installed without problem with the exception of this one portion of wall. The studs are 16"" but there's an awkward section at a drywall seam (red marks in the image) where the stud distances are: 16""-4""-16""-9""-16"".
+
+I haven't been able to mount of the 24"" standards because 2 of the 3 screw holes are blocked by stud plates. It's also above the panel box so to maintain the 6'6"" clearance I only have about 1"" of downward adjustment room. I haven't tried additional pilot holes yet, but if that doesn't work what other ways can I explore supporting a shelf across a |20""|25""| span section?
+
+Alternatively, I could look at drilling offset holes in the standard but probably as a ""last resort"" solution.
+
+[IMAGE: manual review needed]
+
+REPLY
+Unless your shelving is incredibly wimpy and at the same time heavily loaded, 24-25"" span (.vs. 16"") should be no problem - or you can reinforce the bottom of the shelf with some additional lumber for the increased span."
+DIY_328296_328299,"TITLE
+How I reattach trim that has come loose between my ceiling and cabinets?
+
+QUESTION
+In my kitchen, there is small gap between the top of my cabinets and the ceiling (less than a half inch). A cabinet installer covered the gap with trim, but part of the trim has come loose and bowed away from the cabinets. The finishing nails the installer used originally did not hold, and it seems impossible to get new finishing nails to hold the trim to the cabinet (i.e., I can't hammer the nails at a downward angle into the cabinet because of the presence of the ceiling).
+
+Any suggestions of other ways to attach the trim back on the cabinet tops? I worry that glue wouldn't hold, but I really don't even know what glue to try (wood glue?).
+
+[IMAGE: manual review needed]
+
+REPLY
+I would organise some wood laths to hold the part in place - wedging against the floor or wall as appropriate, then I would use a quick setting adhesive and make sure the surfaces are clean and not greasy. I would also put adhesive on the part touching the cabinet and the edge touching the ceiling.
+
+I have done similar for my bedroom cabinets as the ceiling line was not straight."
+DIY_328327_328330,"TITLE
+How can I troubleshoot loss of power to some outlets?
+
+QUESTION
+A few months back, ran into an issue and lost power to some of our house. Mainly some outlets in the kitchen, GFCI outlets outside and in the 2 bathrooms and a couple of other interior outlets tied to the external outlets.
+
+After asking around and someone at the big box store, determined that the panel had stacked circuit breakers. House was built in the late 70s so it was code at the time.
+
+Called an electrician out, ended up swapping out the panel and bringing it up to code. Afterwards,  still no power to the same outlets of the house.
+
+Electrician and apprentice went through the entire house looking for anything. It was late and he was going to charge to stay longer to troubleshoot. He gave me a recommendation for a troubleshooting step. He said to verify power, I can get a new breaker, wire it into the panel and then wire it to the closest GFCI outlet that isn't working to get power to it.
+
+The outlet was only 3 feet away so I took the recommendation and tied it in. Lo and behold, got power back to everything that was out.
+
+I have been trying to safely troubleshoot the issue but I am at a standstill as I don't know what else to check. If adding power off a standalone circuit gives power to the outlets, what or where could the fault be?  Any help would be appreciated.
+
+[IMAGE: manual review needed]
+
+REPLY
+If you can safely Ohm out (measure continuity between wire endpoints) the wire endpoints, you should be able to connect the wire properly and energize the outlet.   Plenty of nice examples on youTube:
+
+https://www.youtube.com/shorts/3yJW3BD6tnQ
+
+The example shows how to use the multimeter to ohm-out a sample wire.  I have a spool of wire to extend the length of my multimeter probe.   For safety reasons, you have to be certain the circuit is disconnected from the power company.  You must be able to measure / verify that the circuit is de-energized.
+
+I’ve had to do this several times and the process works well.   Again, the keyword is safely.   If you are not comfortable or a newbie; do this under the supervision of experienced electricians / engineers."
+DIY_328332_328398,"TITLE
+Subpanel next to main panel connected thru 1-1/4” PVC conduit
+
+QUESTION
+I am adding a 100 amp sub panel right next to main panel separated by a 2x4. The new panel would be connected with main panel using 1-1/4” conduit.
+
+I got couple of questions -
+
+- 
+For feeder circuit, I am using SER 4/4/4/2 cable. Can I used this conduit from code compliance perspective and does it need to be clamped as conduit is much bigger?
+
+- 
+For relocating existing circuits from main panel to new sub panel, I plan to use this conduit. Again the same question if I can I run individual 14 AWG wire for 15 amp circuits connecting using a WAGO inline connector to extend the wire?
+
+REPLY
+I want to post answers to my questions as I spoke with the inspector and learned few additional things that might be useful for future readers.
+
+1  - for 100 amp subpanel, I had to use 1/1/1/2 SER cable as 2/2/2/4 was only rated for 90 amp for feeder purpose. This makes no sense as it’s allowed for main feed but not sub feed.
+
+2 - when extending run of existing circuit to go to new panel thru nipple I connected between panels, I needed to use THHN wire. Many videos on YouTube shows simple wires from romex without jacket but that’s not appropriate as per NEC to go thru raceway which the nipple will be classified as.
+
+Below is my complete panels, waiting for inspection tomorrow.
+
+New panel
+
+Both panel with main run"
+DIY_328366_328373,"TITLE
+Metallic smell coming from flexible conduit
+
+QUESTION
+Some months ago I noticed a weird smell in my bedroom that resembled the odor added to natural gas. I called a guy to check the gas installation and said there were no leaks. So the smell remained. Since I don't live here most of the year, I didn't worry too much about the smell and forgot about it, until yesterday, when I decided to fix an outlet in my bedroom. While I was replacing the outlet I noticed that the weird metallic odor I had been smelling was coming from the flexible conduit that contains the wires. What could be causing this weird smell?
+
+REPLY
+A ""metallic"" odor is probably ozone (O₃). This is usually produced by arcing, but also by partial or corona discharge, which can be caused by voltage spikes e.g. from devices like frequency inverters or badly-filtered switching power supplies.
+
+Do you have high humidity in your room? That can also be a cause for partial discharge."
+DIY_328368_328378,"TITLE
+Splicing sub-panel branch circuit wires within the main panel enclosure?
+
+QUESTION
+I have learned that a wire can be spliced inside a breaker panel using a wire nut or a WAGO.  My question goes a little further.  When installing a critical load sub-panel located adjacent to a main panel, can I run the branch circuit wires from the sub-panel back to the main panel and splice those wires to the existing branch circuit wires using properly rated terminal blocks?  My hope is that can I avoid tearing out the drywall and relocating the existing branch circuits.  Also, I have ample room at the top of the main panel enclosure for a bank of terminal blocks which would actually be a neater and more compact solution than using wire nuts or WAGO’s.
+
+REPLY
+Yes, this is generally allowed as long as the splices are made inside the panel and all parts are listed and rated for the conductors."

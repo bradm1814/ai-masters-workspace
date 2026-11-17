@@ -1,0 +1,255 @@
+id,text,label
+DIY_328247_328248,"TITLE
+Can I use panel insulation to raise the building envelop in my attic to the rafters?
+
+QUESTION
+I have a cold roof attic space (i.e. soffit to rigid vents). Currently the insulation is pretty thin and I plan on reinsulating the space. I saw this on YouTube from a insulation company:
+
+[IMAGE: manual review needed]
+
+It's a thick rigid foam insulated panel (with vapor barrier) fixed to the bottom side of the rafters. This allows the roof to still be vented and moving the house envelope up slightly.
+
+Can rockwool Conformboard panels (or alternatives to foam board, natural materials) can be used in the same way with strapping to secure the panels?
+
+REPLY
+In a heating-primary climate, the vapor barrier should already be on the ceiling of the space below the attic, under the insulation between the floor joists, for a cold attic.
+
+You only need vapor barrier on the rafter area if trying to make the attic space conditioned.
+
+You can insulate under the rafters with rigid or netted rockwool, if you want to - but you are now insulating two sides of a triangle (under the roof) rather than the single, smaller side over the ceiling, so you'll spend more on insulation for the same effect on the house below compared to insulating the floor area of the attic. If you are using the attic for cold storage perhaps that's a trade-off you're willing to make. But in general for a cold attic that stays a cold attic you get more cost-effective results by adding more insulation to the attic floor.
+
+Note that you can usually insert some panels between framing leaving a 1.5"" gap to the roof decking and still maintain adequate airflow, rather than bridging the framing and leaving a full 3.5"" or greater gap to the roof decking as shown in your picture. That gets you more insulation with less loss of headroom. An additional panel bridging below those between will solve the thermal break of the framing, compared to only having insulation between framing.
+
+If trying to make the attic space habitable (often limited by height and floor loading if following building code, if it wasn't designed as habitable space at time of building) then you need a vapor barrier on the underside of the rafter insulation. That can be done with rockwool panels and an applied vapor barrier if you don't want to use foamboard for some reason. Few, if any, vapor barrier materials are all that ""natural.""",1
+DIY_328252_328255,"TITLE
+Should I install an expansion tank and/or check valve in my home cold water supply to prevent pressure spikes?
+
+QUESTION
+I have a 120 year old house in New York state. I am replacing my water heater. In doing so, I have been reading up on thermal expansion tanks. My plumbing system has never had an expansion tank to my knowledge. Current tank is 7 years old. I am upgrading from natural gas to to air source heat pump.
+
+I have a Sensus iPEARL water meter, located in my basement on a municipal water supply. There is no visible backflow prevention device, or check valve near the meter, or anywhere in my plumbing system. I attached a pressure gauge to my basement slop sink overnight. This particular gauge has a resettable needle that will stay at the maximum pressure the system has reached. When I first connected the gauge yesterday, the pressure read 65 PSI. I depleted the hot water tank, and let it fire up for a while without running any water. The needle crept up to maybe 67 PSI or so. When left overnight, I noticed the maximum pressure needle was around 100 PSI, but the current pressure was back down around 65 when I checked it.
+
+I am trying to determine whether I should install an expansion tank along with my water heater. It seems that I have an open loop system based on no visible check valves or other backflow prevention devices, however, I don't know if this is something the city would have upstream of the meter near the connection at the street. I'm fairly certain my water meter does not have any internal check valve.
+
+Given the spike to 100 PSI, I think an expansion tank might be a good idea. However, I have read elsewhere, people experiencing spikes in their water bills when an expansion tank is installed on an open loop system, as water is pushed back and forth through the meter.
+
+As a solution to this potential problem, I am thinking of installing a simple check valve immediately downstream from the meter, and installing a thermal expansion tank on the cold water supply near the hot water tank.
+
+Are there any downsides to consider when installing this check valve? Is it possible there is some other check valve installed underground near the water main connection that I am unaware of? Should I just install the expansion tank and not worry about installing a check valve?
+
+REPLY
+You need both a pressure reducing valve and an expansion tank.  These have both been code for a good 30 years.  Because what you don't want is pipe leaks in your house.  Backflow prevention is to protect the city from you.",0
+DIY_328259_330517,"TITLE
+Can grounding conductors for branch circuits moved to a subpanel be left in the main panel?
+
+QUESTION
+I am installing a sub-panel for critical loads adjacent to the main service panel and relocating eight branch circuits and breakers from the main panel to the sub-panel.  The wires for the eight circuits will run through a metal conduit.  There seems to be some debate on whether I need to extend the ground wires for those branch circuits or just simply leave them connected to the ground bar in the main panel.  I have read comments on the internet that extending the ground wires isn’t required by code but I have also viewed several YouTube videos where the ground wires are extended even when the panels are adjacent to each other.  Obviously, I prefer not extending the ground wires.
+
+REPLY
+I am not familiar with anything in NEC 250 (Grounding & Bonding) that would prohibit this. I took another look through and still do not see anything. That’s from a code perspective.
+
+Electrically the two options are identical.
+
+- The ground wires either terminate in the main panel and are bonded to the neutral (grounded conductor) by the ground bonding screw or jumper in the main panel
+
+- The ground wires terminate in the subpanel and the subpanel ground bar (not bonded) is connected to the main panel by another ground wire, which in turn is bonded to the neutral by the screw/jumper mentioned in #1",1
+DIY_328274_328276,"TITLE
+Is the drywall salvageable?
+
+QUESTION
+I had a roof vent leak back in April that I discovered when re-insulating the attic. Resolved the leak and replaced the insulation, but it must have been leaking for about a month or more because there was black mild/mildew under the insulation that I sprayed and cleaned up.
+
+Fast forward to October and I start to notice a discolored spot on the ceiling of the bathroom below where the leak was. Then some of these small bubbles. Today I sanded the bubbles down and discovered some discoloration on the drywall itself. Doesn’t feel damp, majority of surface feels solid, the discolored spots after sanded are a bit chalky.
+
+From what I’ve read online, it advised I sand down and apply BIN then spackle and repaint. Will this approach be acceptable or does the drywall need cut out and replaced?[IMAGE: manual review needed]
+
+REPLY
+It looks as if the mold is coming through.
+
+In this instance I would dab the spots with a sponge damp with bleach and water.  Let it dry well.
+
+Apply the BIN sealer and let that dry.  Apply new drywall compound with a natural sponge, again dabbing to get the ""Star"" texture.
+
+Load the drywall compound on the sponge and press to the ceiling and remove straight back down without wiping. That will give you the texture. Then you will need to experiment with more or less compound on the sponge to get a texture that blends to your liking.
+
+When dry, prime and paint",1
+DIY_328280_328284,"TITLE
+Why does my sidewalk accumulate ice over a drain pipe?
+
+QUESTION
+There is a sidewalk with one square modified long after installation to contain a pipe going from one side of it to the other.  This is presumably drainage as the source side is a small dirt patch near the house's front door, and the other is the main yard which becomes a downward sloping hill a foot or so after the sidewalk square.
+
+This square with the pipe through it freezes in winter when there has been rain or snow, creating a slip hazard.  It is unknown whether or not this square of sidewalk froze before the pipe under it was installed.
+
+Is it likely that the ice accumulation is due to a drainage issue, which the later-installed pipe was meant to fix?  Or is it because of airflow and thinner concrete that is the result of installing the thin plastic pipe below the concrete sidewalk square?  The pipe is installed shallow (the concrete was poured around it).  The pipe is no longer in use hence the dangling end in the picture.
+
+[IMAGE: manual review needed]
+
+Edit to add: the pipe was placed there because the downspout very close by puts rain directly onto this block.
+
+REPLY
+The pipe is allowing cold air to cool that section first.
+
+The same as bridges where you see signs saying bridge ices first.
+
+Blocking/packing both ends with dirt to prevent air from flowing in should help.  If you could fill the whole pipe under the slap would be better.",0
+DIY_328281_328282,"TITLE
+How to re-stick plasterboard to brick?
+
+QUESTION
+In my house I have a wall which is plasterboard stuck directly to brick and around the middle, the masonry adhesive (or whatever they used 40 years ago) has come unstuck, and the plaster is loose.
+
+Apart from this, the plaster work looks perfectly fine with no cracks or breaks. There is no visible bulging, and it seems to be staying mostly in place. However it moves maybe 5 to 10mm before it contacts the brick when you push it.
+
+Don't really want to leave it like this, but at the same time, complete removal and replacement is something I really want to avoid.
+
+Are there any techniques to re-stick the plasterboard to the brickwork without removing the board?
+
+REPLY
+I had something similar with plaster coming away from the wall - this was with horsehair mixed in it so it was quite stable.
+
+What I did was to drill several small holes at the top and pour adhesive into each hole allowing it to trickle down.
+
+Then I pressed the plaster back against the wall using some wooden planks, wedged with some 2*4 against the opposite wall.
+
+Worked fine and was still there when we left 5 years later! Pity anyone who wants to expose the old brick in the future though :)",1
+DIY_328283_328314,"TITLE
+Is mineral wool or an air gap a better sound barrier?
+
+QUESTION
+I’m trying to understand whether adding mineral wool to a service cavity actually improves sound insulation in my case.
+
+My wall assembly (from room to room) is:
+
+- Single layer drywall
+
+- 5 cm service cavity on wooden studs (currently empty air)
+
+- OSB
+
+- 15 cm timber frame filled with mineral wool
+
+- OSB
+
+- 5 cm service cavity on wooden studs (empty)
+
+- Single layer drywall
+
+The drywall is mounted on the 5 cm service studs, not directly on the main timber frame.
+
+These walls separate all rooms inside my house. I want goal is to reduce airborne noise like speech, TV, and normal household sounds.
+
+My question is:
+Would filling the 5 cm service cavities between the OSB and drywall with mineral wool improve sound insulation, or is it better to leave them as air gaps?
+
+REPLY
+The basic answer to your question is yes, it will improve sound insulation.
+
+If your 15 cm OSB encased cavity is constructed how I'm imagining it, then it is currently acting as both a resonator and a muffler.  With the air gap on each side, it's actually amplifying the volume but muffling certain frequencies (Likely mids and highs).  Adding mineral wool to one or both cavities will nullify the resonator aspect and dampen the sound.
+
+Something to keep in mind if you go through with this is multiple layers of thinner sheets will have far superior performance compared to a single thick sheet of mineral wool due to baffling.  If you can install the sheets so the material ""waves"" it will produce even better results.
+
+I would recommend measuring your current attenuation between rooms before going through the trouble though. Soundproofing has extremely diminishing returns once you hit a certain threshold.  There are calculators online you can use to estimate what's necessary for increasing STC based on material construction to get an idea of whether it's worth your time.",1
+DIY_328295_328308,"TITLE
+Best way to clean off mold in ducts/boots?
+
+QUESTION
+Been having some respiratory issues and trying to eliminate some possible causes. I tried cleaning off some of the moldy spots in my ducts with some vinegar and a microfiber cloth (as far as I could reach) but no luck. There's a bunch of paint and dust coming off which is making it irritating to clean and I'm afraid of ripping up the plastic since it seems kind of fragile.
+
+Is there a better way to clean it off? Should I just stop messing with it?
+
+Also seeing some black stuff on the ductboard boots, and wondering if I could spray a layer of Concrobium on it until I can get them replaced eventually... is this a good idea?
+
+[IMAGE: manual review needed]
+
+[IMAGE: manual review needed]
+
+REPLY
+- Use a long duct cleaning brush, such as these at Amazon and at Walmart.
+
+- After loosening up surface grime, vacuum inside with a shop vac with long hose extensions.
+
+For both, be sure to firmly connect any extensions and tools so that one is not left inside the duct. Also, wear a filter mask, or have someone do this for you, as it's likely to kick up a lot of dust!
+
+- You might consider adding a filter to the register (vent opening), but that would also reduce air flow. Perhaps combining a filter with a register booster, such as these at Walmart and at Amazon.
+
+As for using vinegar, it might actually provide food for some microbes. Use dilute dish detergent to wash coils, prefereably with some pressure.",0
+DIY_328313_328319,"TITLE
+Can electric baseboard heaters be stacked vertically?
+
+QUESTION
+I currently have a 10’ electric baseboard heater around 30 years old and it’s not putting out heat like it did even 3 years ago. I want to replace it with two 5’ baseboards, but eventually where the current 10’ one is I want to install a door. Can I put one about 12 inches higher above the first one or will I have to find a different space on my living room wall to place the 2nd 5’ heater?
+
+REPLY
+Stacking them will not work well. Normal baseboard heaters rely on convection and draw cool air in from the bottom, heat the air and let it rise out the top. Stacking two will disrupt the natural flow. You would be better off getting a 5 footer with the same KW as the 10 footer you want to replace.
+
+Do yourself a favor and look into a mini split system... you'll thank us later.",1
+DIY_328351_328352,"TITLE
+How to supplement beam to achieve 12ft clear span?
+
+QUESTION
+My home was built in the 1950s. The main beam in the basement comprises three 2x10s. This supports the first floor and a structural wall for the second floor. Each end is supported directly on the block walls and there are steel columns every 7ft. I’d like to remove one of these columns to have a 12ft clear span, by adding additional 2x10s with appropriate supports. I have space to add 2x10s up to 16ft. The end of the beam by the existing wall would have to have its own support.
+
+What would be the best method to accomplish this, and how should the new combined beam be supported?
+
+REPLY
+Best and only safe method is to have a structural engineer design what you need.
+
+Your home insurance plus your local building department will insist on this.
+
+Usually you increase the depth not the width to increase open span, or change to manufacture wood beam or steel beam to maintain depth of beam.
+
+While I might think it might be over built as is, I do not know your house or am I an engineer.  I also will not be wearing the house if it collapses.",0
+DIY_328357_328381,"TITLE
+Why is one outlet melting and glowing?
+
+QUESTION
+Electrical outlet in my room began melting and I could see something inside glowing. I had a space heater and a reptile heat lamp plugged up to the outlet directly, nothing else and both were on the lowest settings. Neither were new additions to the outlet either.
+
+I flipped the breaker, glowing ceased. My roommate has an outlet on the opposite side of the same wall that is on a different circuit (so still has power but is basically 'behind' the other outlet in location). She plugged a different space heater into that outlet and the one that is having the issue began glowing again. So I unplugged the space heater.
+
+House is older (50s). I am unsure when electrical was last updated (if ever). There was a bit of smoke and the outlet/cover is partially melted. I know the outlet is at least 5 years old and wasn't installed with backstabbing. Is it just outlets needing replaced or are we screwed and need electric wiring and such redone?
+
+REPLY
+There are a few possibilities here:
+
+The outlet has a failed part that is causing high resistance.
+
+One or more wires is loose at the outlet or in wire nuts causing higher resistance.
+
+There is a part of a wire that is damaged and thin not being able to carry the amperage the circuit is using.
+
+A hot wire has is barely touching a grounding source or wire.
+
+The outlet itself is not firmly anchored and over time wires have rubbed and the insulation has worn to allow a hot wire to ""bleed"" to a neutral or ground.
+
+The bottom line is the circuit needs to be shut off at the breaker and a close visual inspection done.
+
+If you don't know what you may be looking at or are uncomfortable with  this you must call an electrician. If you are renting it is the only solution to call the landlord or management company and have them contact an electrician.",1
+DIY_328367_328371,"TITLE
+GE Dryer DVL223EB4WW heating failure
+
+QUESTION
+Said drier is a mechanically controlled device and seems to work well in all respects, except for heat. The heat is hit or miss, which leaves to wonder if there is more than one heating element or if the heating element fails partially.  A search of the heating element part number returned: WE14X10015
+
+Amazon returns two classes of parts: a coil ($35) and a coil in an housing / assembly ($150).
+
+I'd like to order one or the other and get it right the first time if possible
+
+[IMAGE: manual review needed]
+
+Are there any indicators / signs that would signal that the housing assembly and the coil need to be replaced?  What is the failure mode that warrants the replacement of circular assembly?
+
+If you have relevant experience: any guidance / lessons learned are always appreciated.
+
+REPLY
+Look for one or two thermal switches in the dryer coil area. I've replaced the heating wire and one switch and still no heat, until the second thermal device was replaced. You may note that Amazon carries ""full kit"" options that include these protective items.
+
+The manual for your dryer lists a thermal limiter.
+Amazon carries a matching part number at a slightly lower cost than the linked page. Image from Amazon page
+
+[IMAGE: manual review needed]
+
+My machine had two. The manual for your machine appears to indicate your machine has one.
+
+Amazon does not carry a kit as it did for my machine, nor do other sources for parts online. Nickel and dime the repair!",0

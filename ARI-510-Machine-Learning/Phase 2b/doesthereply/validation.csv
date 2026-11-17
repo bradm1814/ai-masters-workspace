@@ -1,0 +1,115 @@
+id,text,label
+DIY_328290_328291,"TITLE
+Attach Bathroom Vent to Box Vent on Roof
+
+QUESTION
+I have a bathroom vent that needs reinstalled. There was a roof leak when a roofer didn’t seal the metal roofing around the vent after installation. When I took it apart I noticed that the vent duct just sat loose inside the vent cap on the roof. The roof vent has a 4” opening but doesn’t have a “nipple” to run the ductwork into from the fan in the bathroom. The roof is standing seam, so replacing the vent isn’t a great option. How can I connect the ductwork into the vent without venting into the drywall or decking?
+
+[IMAGE: manual review needed]
+
+[IMAGE: manual review needed]
+
+[IMAGE: manual review needed]
+
+REPLY
+Realistically, even a bathroom vent doesn't put out that much moisture, so it's probably not as big a concern as you seem to think. I had a flex duct attached ""loosely"", as you put it, in a previous home for a decade or more. It caused no problems. That home's attic had enough ventilation that moisture didn't significantly accumulate, and the humidity from an occasional shower isn't going to rot the deck.
+
+I would use wire or strapping to position the end of a 4"" duct just about level with the base of the roof vent's cylinder, so that both the vent exhaust and attic scavenge air can exit freely. Very little moisture will wrap back down to encounter the wood sheathing.
+
+This almost certainly doesn't meet modern code requirements, but it's one of those low risk things where if it works it works.",1
+DIY_328321_328337,"TITLE
+Can a pressure washer be used for ""soft wash""?
+
+QUESTION
+Context: T1-11 wood panels cover the second story 1987 Florida home.  The photo shows  paint has flaked off.  The dark areas may be growth: the plan is test-treat a small area with Wash Safe Supreme non bleach exterior cleaner, mixed with a surfactant.
+
+I do would like to avoid introducing cleaners through the pump and prefer to have the cleaner introduced downstream with a dispenser.
+
+I have a 3300 PSI pressure washer and ordered said cleaner.  Is it possible and is their any reason not to use the pressure washer to apply said cleaner?  What is the preferred method of application?   Obviously a soft wash (low pressure) nozzle must be used to avoid damaging the wood.
+
+[IMAGE: manual review needed]
+
+REPLY
+To answer your question, yes you can use a pressure washer. The soap will work. But a few things to keep in mind:
+
+- Most house washing jobs are easier to do, while getting better results and none of the risks of pressure washing, by using a brush attached to a painter’s extension pole.
+
+- A Pressure washer risks damaging the wood by lifting the fibers. But the bigger problem is getting the wood wet, which can then take many many days of sunshine to completely dry. You don’t want to paint over trapped moisture.
+
+- The soap you are using is non-bleach, but bleach is actually one of the best things you can use for house washing, especially when you have mold growing in the siding. Bleach won’t harm garden plants, and is environmentally friendly.
+
+- Nothing beats a hand scraper for removing loose paint.
+
+- If you insist on using the pressure washer, get a wand extension. It’s easy to be pushed out of the ladder while trying to reach the high spots.
+
+I have a pressure washing machine and use it often, but it has its uses. Washing wood siding with it is, in my opinion, not the best use.",1
+DIY_328344_328346,"TITLE
+Drywalling 9"" deep concrete block ledge
+
+QUESTION
+I am drywalling a basement wall that already has framing. However it also has a ledge that is about 9"" deep and ends about 5' off the ground.
+
+[IMAGE: manual review needed]
+
+Unfortunately that ledge has a few challenges- the concrete blocks behind the framing sit slightly proud of the top plate creating an uneven surface for mounting drywall. There is also no framing to attach to in the back of the ledge; the only support available is in the front of the ledge.
+
+[IMAGE: manual review needed]
+
+[IMAGE: manual review needed]
+
+What's the best way to deal with this ledge? Do I need to build out some proper (and flat/level) framing? Is the small amount of support in the front enough for drywall without adding additional framing?
+
+REPLY
+Furring strips are a recipe for a wavy outcome in cases like this. Neither the concrete nor the framed wall are likely to be particularly straight, flat, or level. They're not a good basis for the drywall plane.
+
+Then, you really want some insulation over the concrete there. I think I'd try to integrate at least 3/4"" foam.
+
+- 
+Check the lower wall top plate for level and straight. Fix that first if necessary using shims over the studs or whatever makes sense. Of utmost importance is the straightness of the front edge.
+
+- 
+Add a 1x2 (3/4 x 1-1/2 actual*) to the front edge of the wall plate. Pilot for screws long enough to anchor it well.
+
+- 
+Fit 3/4"" rigid foam between that strip and the upper wall plate. It doesn't really need to be fastened.
+
+- 
+Attach a sheet metal angle to the wall, like a standard corner bead or purpose-built drywall backer, set to a line chalked from points at each end level with the wood strip.
+
+- 
+Install the horizontal drywall, screwing into the wood strip and occasionally the metal angle (and/or use construction adhesive here), then install the vertical panels and corner bead.
+
+ELEVATION (SIDE) VIEW
+
+|
+| <-- upper wall framing
+|:
+|: <-- metal angle
+|:....____________  ___
+|_________________||___| <-- 1x2 furring strip
+|    ^---- foam        |
+|             _________| <-- lower wall plate
+
+* You may want to rip your own. The furring strips stores stock tend to be undersized and have extremely rounded corners. You could also upsize to 1"" or larger and thicken the foam accordingly. Care in craft here will result in solid support for the drywall.",1
+DIY_328353_328364,"TITLE
+Can an exterior GFCI be downstream of other outlets?
+
+QUESTION
+The current wiring has a 14/3 cable feed to outlet with GFCI, black and white are LINE into it, red is unused.  LOAD goes out to outlet for car charging but nothing else.  Other exterior outlets will trip this GFCI.
+
+When I’ve tripped the other outlets it has however tripped this GFCI - unsure how that is working.  Shouldn’t all the other exterior outlets be downstream from the LOAD of this outlet?
+
+Assuming the 14/3 leads off to one of the other outlets and I move the red to the LOAD and change the one that is feeding this outlet to use the red LOAD from this outlet and pig tie that back to the next outlet in the chain will this make the install proper?  or is the install already somehow proper?
+
+When I removed the device from the exterior enclosure water came out the bottom so I drilled a relief hole such that if water gets in again it should at least be able to drip out instead of pooling - the neoprene gasket seemed good.  Could water get in the top closure?
+
+[IMAGE: manual review needed]
+
+[IMAGE: manual review needed]
+
+REPLY
+A GFCI basically works by comparing power ""out"" on the hot leg with power ""in"" on the neutral leg.  If they don't match, it assumes that there is a leak to ground downstream of it and opens the circuit.
+
+If you put a MWBC downstream (i.e. on the LOAD side) of the GFCI, it monitors the shared neutral, but only one of the hot legs can be fed through so it only monitors half of the hots.  Once any current flows on the other one, the shared neutral is unbalanced and the GFCI opens the circuit.  MWBCs and GFCIs are OK to use together, but only when the shared part of the circuit is upstream.
+
+Plus, like where is that second hot leg fed from?  It raises questions about how the circuit was initially wired.  Maybe somebody just threw in a GFCI because they thought ""outside = GFCI""?",0
